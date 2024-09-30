@@ -26,7 +26,7 @@ export default function Home() {
       >
         {/* Post Owner Example*/}
         <PostOwnner
-          PostTitle="Nattapat bootsing 660610753"
+          PostTitle="Nattapat Bootsing 660610753"
           content="ควิซมี 3 รอบผมก็สอบเเก้ 3 รอบเลยคับ TT"
           profilePic="/profileImages/namo_ok.jpg"
           likes={100}
