@@ -29,7 +29,7 @@ export default function Home() {
           PostTitle="Nattapat bootsing 660610753"
           content="ควิซมี 3 รอบผมก็สอบเเก้ 3 รอบเลยคับ TT"
           profilePic="/profileImages/namo_ok.jpg"
-          likes={0}
+          likes={100}
         ></PostOwnner>
 
         {/* map-loop render Comment component here */}
